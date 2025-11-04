@@ -19,3 +19,7 @@ const moi = {
     competences: ["HTML", "CSS"]
 };
 console.log(moi);
+const notes = [12,15,9,18]
+console.log(notes[0]);
+console.log(notes[1]);
+console.log(notes.length);
